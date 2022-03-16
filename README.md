@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou em busca da minha primeira oportunidade em tecnologia.
 - 🖥️ Este repositorio contará com projetos iniciais de aprendizado e estarei compartilhando o meu avanço.
 - 🌱 Estudando Java e .NET
-- 🤔 Gosto muito de aprender coisas novas e estarei a disposição para receber feedbacks e direcionamentos.
+- 🤔 Gosto muito de aprender coisas novas e estarei aberta para receber feedbacks e direcionamentos.
 
 <div align="center">
   <a href="https://github.com/marianamartinslp">
